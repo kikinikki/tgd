@@ -25,7 +25,7 @@ font-family : 'BMHANNAAir';
 /* 배경*/
 
 body {
-	background: linear-gradient(to bottom, #150233, #361d5e);
+	background: linear-gradient(to bottom, #150233, #361d5e);
     	height: auto !important;
 }
 /* 순위뱃지 */
